@@ -24,5 +24,5 @@ I'm a graduate student at the University of Louisiana in Lafayatte pursuing, pur
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalazclint&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalazclint&show_icons=true&include_all_commits=true&hide_border=true" alt="Clinton's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalazclint&langs_count=8&layout=compact&hide_border=true" alt="Clinton's GitHub stats" /> |
 | ------------- | ------------- |
