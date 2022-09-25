@@ -10,7 +10,7 @@ I'm a graduate student at the University of Louisiana in Lafayatte pursuing, pur
 - 💡 Fun fact: I'm currently enrolled in AltSchool Africa, Cloud Engineering Program [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Scientist, Data Analyst, Cloud Development (Intern or Junior level).
-- 📫 You can [view my resume](#https://drive.google.com/file/d/1Llxpy8RJldS7vxY86wOL4e6CDLSwBpm_/view?usp=sharing) and contact me by emailing Clintonakalazu@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Llxpy8RJldS7vxY86wOL4e6CDLSwBpm_/view?usp=sharing) and contact me by emailing Clintonakalazu@gmail.com.
 
 **Skills** :
 - Python for Data Science and Machine Learning
