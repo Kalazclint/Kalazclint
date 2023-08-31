@@ -9,7 +9,7 @@ Highly motivated and detail-oriented Data Scientist with a Master's degree in In
 - 😊 Pronouns: He/him
 - 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
 - 💼 Job interests: Data Scientist, Data Analyst, Machine Learning.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1Llxpy8RJldS7vxY86wOL4e6CDLSwBpm_/view?usp=sharing) and contact me by emailing Clintonakalazu@gmail.com.
+- 📫 You can [view my resume]([https://drive.google.com/file/d/1Llxpy8RJldS7vxY86wOL4e6CDLSwBpm_/view?usp=sharing](https://drive.google.com/file/d/13uqK2m2EAoZioFn-dIqqqNc4CpaWdSyo/view?usp=drive_link)) and contact me by emailing Clintonakalazu@gmail.com.
 
 **Skills** :
 - Proficient in Python, R, and SQL
